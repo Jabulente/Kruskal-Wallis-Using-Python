@@ -12,8 +12,6 @@ The script is scalable and customizable, making it especially useful for explora
 * ✅ Perform **group-wise comparisons** based on a categorical grouping variable.
 * ✅ Handle **missing data**, rank ties, and group filtering efficiently.
 * ✅ Return results in a clean, exportable format (e.g., CSV or DataFrame).
-* ✅ Integrate **post-hoc analysis** (like Dunn’s test) when Kruskal-Wallis detects significant differences.
-* ✅ Visualize test outcomes using boxplots and annotated p-values.
 
 ---
 
@@ -23,7 +21,6 @@ The script is scalable and customizable, making it especially useful for explora
 * 🔁 Loop-based structure to test multiple variables at once.
 * 📈 Optional **boxplot visualizations** for visual comparison.
 * 📄 Export of summary results including test statistics, p-values, and significance flags.
-* 🧪 Integrated optional **post-hoc pairwise comparisons** (Dunn’s test).
 
 ---
 
